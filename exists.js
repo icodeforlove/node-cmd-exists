@@ -19,7 +19,7 @@ module.exports = function () {
 	async.each(
 		commands,
 		function (command, callback) {
-			var child = spawn('type', [command]);
+			var child = spawn('command', ['-v', command]);
 
 			child.on('close', function (code) {
 				response[command] = !code;
