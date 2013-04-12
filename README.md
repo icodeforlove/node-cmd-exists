@@ -1,4 +1,4 @@
-# cmd-exists
+# cmd-exists [![Build Status](https://travis-ci.org/icodeforlove/node-cmd-exists.png?branch=master)](https://travis-ci.org/icodeforlove/node-cmd-exists)
 
 checks if system can run the command
 
