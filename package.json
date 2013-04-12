@@ -4,7 +4,7 @@
   "description": "checks if commands exist",
   "main": "exists.js",
   "scripts": {
-    "test": "vows --spec"
+    "test": ""
   },
   "repository": "",
   "author": "",
