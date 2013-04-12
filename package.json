@@ -1,0 +1,16 @@
+{
+  "name": "cmd-exists",
+  "version": "0.0.0",
+  "description": "checks if commands exist",
+  "main": "exists.js",
+  "scripts": {
+    "test": "vows --spec"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "async": "~0.2.7",
+    "vows": "~0.7.0"
+  }
+}
