@@ -10,7 +10,9 @@
   "author": "",
   "license": "BSD",
   "dependencies": {
-    "async": "~0.2.7",
+    "async": "~0.2.7"
+  },
+  "devDependencies": {
     "vows": "~0.7.0"
   }
 }
